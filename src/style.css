@@ -1,0 +1,25 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 5rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: blanchedalmond;
+    border-radius: 100px;
+  }
+   
+  h1{
+color: orangered;
+background-color: rgb(94, 206, 112);
+text-decoration: underline;
+padding: 10px;
+border-radius: 10px;
+
+  }
+
+  p{
+    color: rgb(184, 93, 44);
+    font-family: cursive;
+    
+  }
